@@ -1,5 +1,5 @@
-# vidaTerrestre
-Novedades sobre la vida terrestre
+# Vida Terrestre
+Aplicacion de noticias con Jquery, Bootstrap, Html y Css.
 
 ## Diseño Horizonta
 ![Diseño Horizontal](imgReadME/IMG_20170517_162251.jpg)
