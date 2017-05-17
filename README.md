@@ -8,15 +8,15 @@ Aplicación de noticias con jQuery, Bootstrap, Html y CSS.
   * El título de la página.
   * Una pequeña descripción de la página.
   
-#### La publicidad estara en la caja de la derecha, cuando se haga scroll la caja seguira el scroll.
+#### La publicidad estará en la caja de la derecha, cuando se haga scroll la caja seguirá el scroll.
 
-#### Las cajitas centrales son las diferentes noticias, cada una mostrara la siguiente informacion:
+#### Las cajitas centrales son las diferentes noticias, cada una mostrara la siguiente información:
  * Imagen pequeña a la izquierda.
  * Titulo de la noticia.
- * Fecha y hora de la publicacion.
- * Descripcion breve de la noticia.
+ * Fecha y hora de la publicación.
+ * Descripción breve de la noticia.
 
-#### El boton "Mas Noticias":
-Añadira 3 noticias, debajo de estas tres ya escritas en el html. La informacion
-de las noticias a carga se cojeran en un fichero "new.json". Esta accion se realizara dos vezes, con diferentes
+#### El botón "Mas Noticias":
+Añadirá 3 noticias, debajo de estas tres ya escritas en el html. La información
+de las noticias a carga se cogerán en un fichero "new.json". Esta acción se realizara dos veces, con diferentes
 ficheros ".json" y cada vez se cargaran 3 noticias.
