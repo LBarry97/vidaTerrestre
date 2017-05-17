@@ -1,12 +1,12 @@
 # Vida Terrestre
 Aplicación de noticias con jQuery, Bootstrap, Html y CSS.
 
-## Diseño Horizonta
+## Diseño Horizonte
 ![Diseño Horizontal](imgReadME/IMG_20170517_162251.jpg)
 
-#### El encabezado sera un "div" de classe "jumbotron text-center" con:
-  * El titulo de la pagina.
-  * Una pequeña descripcion de la pagina.
+#### El encabezado será un "div" de clase "jumbotron text-center" con:
+  * El título de la página.
+  * Una pequeña descripción de la página.
   
 #### La publicidad estara en la caja de la derecha, cuando se haga scroll la caja seguira el scroll.
 
