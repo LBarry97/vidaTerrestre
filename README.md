@@ -1,5 +1,5 @@
 # Vida Terrestre
-Aplicacion de noticias con Jquery, Bootstrap, Html y Css.
+Aplicación de noticias con jQuery, Bootstrap, Html y CSS.
 
 ## Diseño Horizonta
 ![Diseño Horizontal](imgReadME/IMG_20170517_162251.jpg)
