@@ -2,7 +2,7 @@
 Aplicación de noticias con jQuery, Bootstrap, Html y CSS.
 
 ## Diseño Horizonte
-![Diseño Horizontal](imgReadME/IMG_20170517_162251.jpg)
+![Diseño Horizontal](imgReadME/horizontal.jpg)
 
 #### El encabezado será un "div" de clase "jumbotron text-center" con:
   * El título de la página.
@@ -20,3 +20,7 @@ Aplicación de noticias con jQuery, Bootstrap, Html y CSS.
 Añadirá 3 noticias, debajo de estas tres ya escritas en el html. La información
 de las noticias a carga se cogerán en un fichero "new.json". Esta acción se realizara dos veces, con diferentes
 ficheros ".json" y cada vez se cargaran 3 noticias.
+
+
+## Diseño Vertical
+![Diseño Horizontal](imgReadME/verticla.jpg)
