@@ -23,4 +23,4 @@ ficheros ".json" y cada vez se cargaran 3 noticias.
 
 
 ## Diseño Vertical
-![Diseño Horizontal](imgReadME/verticla.jpg)
+![Diseño Vertical](imgReadME/vertical.jpg)
