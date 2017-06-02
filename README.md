@@ -18,7 +18,7 @@ Aplicación de noticias con jQuery, Bootstrap, Html y CSS.
 
 #### Cargar mas noticias:
 Practicaremos dos formas una sera con un boton "Mas novedades" que aperecera antes de llegar al final de la pagina y la otra
-sera con un evento "scroll", las dos formar realizaran la siguiente funcion:
+sera con un evento "scroll" que se activara cunado lleguemos a final de pagina, las dos formar realizaran la siguiente funcion:
 
 Añadirá 3 noticias, debajo de estas tres ya escritas en el html. La información
 de las noticias a carga se cogerán en un fichero "new.json". Esta acción se realizara dos veces, con diferentes
