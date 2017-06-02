@@ -27,5 +27,7 @@ ficheros ".json" y cada vez se cargaran 3 noticias.
 ## Diseño Vertical
 ![Diseño Vertical](imgReadME/vertical.jpg)
 
-#### Los cambios que habran en el disenyo vertical son:
+### Los cambios que habran en el disenyo vertical son:
+
+#### La Publiciada
 La publicidad sera una caja de 90px de altura, que aperecera arriba de las noticias y desaparecera cuando agamos scroll hacia abajo.
