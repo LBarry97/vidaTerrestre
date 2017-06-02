@@ -8,7 +8,7 @@ Aplicación de noticias con jQuery, Bootstrap, Html y CSS.
   * El título de la página.
   * Una pequeña descripción de la página.
   
-#### La publicidad estará en la caja de la derecha, cuando se haga scroll la caja desaparecera ariba.
+#### La publicidad estará en la caja de la derecha, cuando se haga scroll la caja desaparecera arriba.
 
 #### Las cajitas centrales son las diferentes noticias, cada una mostrara la siguiente información:
  * Imagen pequeña a la izquierda.
