@@ -5,7 +5,7 @@ var carga=0;
 $(document).ready(function(){
 	
 	//Cuando se seleccione el boton de cargar noticias
-	rutaJson="https://github.com/LBarry97/vidaTerrestre/blob/master/data/news1.json";
+	rutaJson="https://rawgit.com/LBarry97/vidaTerrestre/master/data/news1.json";
 	$(window).scroll(function(){
 		if($(window).scrollTop()+$(window).height()>$(document).height()-1){
 			if(carga!=2){
@@ -36,8 +36,8 @@ function generarNew(json){
 		$("#cuerponew_"+intid).append($("<p>",{text:noticia.descripcion}));//Descripcion
 		intid++;
 	});
-	if(rutaJson=="https://github.com/LBarry97/vidaTerrestre/blob/master/data/news2.json"){
+	if(rutaJson=="https://rawgit.com/LBarry97/vidaTerrestre/master/data/news2.json"){
 		$("#mas").hide();
 	}
-	rutaJson="https://github.com/LBarry97/vidaTerrestre/blob/master/data/news2.json";
+	rutaJson="https://rawgit.com/LBarry97/vidaTerrestre/master/data/news2.json";
 }
